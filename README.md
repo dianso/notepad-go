@@ -1,0 +1,1 @@
+A notepad written in gogang.
