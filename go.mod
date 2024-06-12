@@ -1,4 +1,4 @@
-module Minimalist-Web-Notepad-Go
+module notepad-go
 
 go 1.22.4
 

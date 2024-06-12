@@ -2,7 +2,7 @@ server:
   port: ":6666"
 
 storage:
-  tmp_path: "./txt"
+  tmp_path: "./tmp"
 
 random:
   string_length: 4
