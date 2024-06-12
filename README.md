@@ -1,1 +1,1 @@
-A notepad written in gogang.
+A notepad written in golang.
